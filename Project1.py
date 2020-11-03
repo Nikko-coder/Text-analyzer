@@ -99,6 +99,7 @@ for key, value in sorted(d.items()):
     print(f"{key} {k} {value}")
 
 print("-" * 30)
+
 # suma cisel
 sum_digit = 0
 for word in texts[i].split():
